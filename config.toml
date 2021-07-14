@@ -1,0 +1,101 @@
+baseURL = "https://github.com/pain-learning/apdp-app/"
+languageCode = "en-us"
+theme = "raditian-free-hugo-theme"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Games"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.header]]
+  name = "Symptoms"
+  URL = "#education"
+  weight = 4
+
+  [[menu.header]]
+  name = "Exercises"
+  URL = "#experience"
+  weight = 5
+
+  [[menu.header]]
+  name = "Resources"
+  URL = "#testimonial"
+  weight = 5
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 6
+
+
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Games"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Symptoms"
+  URL = "#education"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Exercises"
+  URL = "#experience"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Resources"
+  URL = "#testimonial"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 6
+
+
+[params]
+
+  sections = ["showcase", "about", "client-and-work", "education", "experience", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Pain Learning"
+    text2 = "Research"
+
+  [params.footer]
+      copyright = "© Pain Learning Research. All rights reserved."

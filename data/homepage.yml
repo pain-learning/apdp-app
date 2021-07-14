@@ -1,0 +1,197 @@
+# homepage
+homepage:
+  head:
+    title: "Home | Pain leanring research"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, welcome to"
+  subtitle: "pain learning research"
+  description: "Here you will find a collection of online games, questionnaires and video tools that help us understand how your pain changes in time. There are also useful links on pain management."
+  image:
+    alt: "tablet screen"
+    x: "img/showcase/fMRI.jpg"
+    _2x: "img/showcase/fMRI.jpg"
+  imageMobile:
+    alt: "tablet screen"
+    x: "img/showcase/fMRI.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact us"
+    URL: ""
+
+
+# about
+about:
+  enable: true
+  title: "Who are we?"
+  content: '<p class="lead">
+    We are a group of neuroscience researchers interested in understanding the role of learning in chronic pain development.
+    </p>
+    <p class="lead">
+    Pain teaches us how to protect our body. Although this is beneficial in normal circumstances, an "overactive" pain system could amplify pain beyond what is necessary. Indeed, it has been proposed that learning processes gone wrong are central to the transition to, or maintenance of, chronic pain. 
+    </p>
+    <p class="lead">
+    You can help us understand how pain changes the learning process by tracking your thinking and movement using our online tools.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "More about our research"
+    URL: ""
+  image:
+    x: "img/showcase/tablet_screen.jpg"
+    _2x: "img/showcase/tablet_screen.jpg"
+
+# Online games
+client_and_work:
+  title: "Online Games"
+  enable: true
+
+  works:
+    - title: "Pop a balloon"
+      description: "Pop a ballon to find out if you've won a gold coin or poked a ghost! It helps us evaluate your decision to reward and loss (5 mins)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://pavlovia.org/run/syz/bandit_touch/html/"
+      image:
+        x: "img/works/balloons.jpg"
+        _2x: "img/works/balloons.jpg"
+      is_even: true
+
+    - title: "Safety check"
+      description: "The star is changing shape all the time. Is it still safe? Will you bet on it? It evaluates how loss may change your perception of safety (5 mins)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://run.pavlovia.org/syz/generalisation_task"
+      image:
+        x: "img/works/safety.jpg"
+        _2x: "img/works/safety.jpg"
+      is_even: false
+
+    - title: "Weather forecast"
+      description: "Is it raining tomorrow? How sure are you about this? It'll tell us about how you change your mind based on earlier observations (5 mins)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://run.pavlovia.org/noxlab/_tsl_fisher_35/"
+      image:
+        x: "img/works/weather.jpg"
+        _2x: "img/works/weather.jpg"
+      is_even: true
+
+    - title: "Touch fast"
+      description: "Touch the circle as fast as you can to get a gold coin, or else it's a ghost! Testing how fast your actions are help us gauge your action learning (5 mins)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://pavlovia.org/run/syz/circle_motor/html/"
+      image:
+        x: "img/works/fast.jpg"
+        _2x: "img/works/fast.jpg"
+      is_even: false
+
+
+# education
+education:
+  enable: true
+  title: "Symptom tracking"
+  # description: "Answering the following questionnaires to help us understand how pain impacts your life in general."
+  items:
+    - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_vas'>Visual analog scale (VAS)</a>"
+      degree: "How are you feeling today? Rate your pain, fatigue and mood (4 questions)"
+    - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_bpi'>Brief pain inventory (BPI)</a>"
+      degree: "Rapidly assesses the severity of pain and its impact on functioning (13 questions)"
+    - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_sfmpq'>Short-Form McGill (SF-MPQ)</a>"
+      degree: "Measures the sensory and affective dimension of pain (17 questions)"
+    - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_facit'>Fatigue scale (FACIT)</a>"
+      degree: "Measures your general fatigue levels (13 questions)"
+    - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_bdi'>Beck depression inventory (BDI)</a>"
+      degree: "Measures characteristic attitudes and symptoms of depression (21 questions)"
+    - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_bisbas'>BIS/BAS scale</a>"
+      degree: "Assesses individual differences in the sensitivity to appetitive and aversive motives (13 questions)"
+
+# experience
+experience:
+  enable: true
+  title: "Video your exercise"
+  description: "Upload short videos of you exercising can help us track your recovery over time. Click below for instructions on exercises and phone camera setup"
+  button:
+    icon: "icon-profile-fill"
+    btnText: "More information"
+    URL: "https://sites.google.com/view/video-your-exercise-prototype/home"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
+  items:
+    - title: "Set up phone camera"
+      company: "Make sure your whole body is in"
+      duration: "Step 1"
+
+    - title: "Video your exercise"
+      company: "Repeat a movement a few times (for example, lifting your knee)"
+      duration: "Step 2"
+
+    - title: "Upload your video"
+      company: "Click the upload button and choose your video"
+      duration: "Step 3"
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Useful resources"
+  items:
+    - name: ""
+      position: "NHS resources"
+      content: "A compilaiton of useful NHS <a target='_blank' href='https://sites.google.com/view/resources-compilation/home'>tips on managing</a> chronic pain symptoms"
+      image:
+        x: "img/testimonials/healthcare.png"
+        _2x: "img/testimonials/healthcare.png"
+
+    - name: ""
+      position: "Treatment advice"
+      content: "Chronic pain <a target='_blank' href='https://www.ouh.nhs.uk/oxparc/information/pain/treatment-of-chronic-pain.aspx'>treatment overview</a> and general advice from the NHS"
+      image:
+        x: "img/testimonials/needle.png"
+        _2x: "img/testimonials/needle.png"
+
+    - name: ""
+      position: "For GPs"
+      content: "NHS resources for GPs <a target='_blank' href='https://www.ouh.nhs.uk/oxparc/information/pain/treatment-of-chronic-pain.aspx'>regarding opiods and chronic pain</a>"
+      image:
+        x: "img/testimonials/doctor.png"
+        _2x: "img/testimonials/doctor.png"
+      
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "123"
+  email:
+    title: "Email"
+    email: '<a href="mailto:">team@xyz.com</a>'
+  address:
+    title: "Address"
+    address: "WIN<br />University of Oxford"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
