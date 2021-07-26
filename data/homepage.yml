@@ -11,15 +11,15 @@ showcase:
   image:
     alt: "tablet screen"
     x: "img/showcase/fMRI.jpg"
-    _2x: "img/showcase/fMRI.jpg"
+    _2x: "img/showcase/fMRI@2x.jpg"
   imageMobile:
     alt: "tablet screen"
-    x: "img/showcase/fMRI.jpg"
+    x: "img/showcase/fMRI-mobile.jpg"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact us"
-    URL: ""
+    URL: "mailto:pain.learning.lab(at)ndcn(dot)ox(dot)ac(dot)uk"
 
 
 # about
@@ -38,7 +38,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "More about our research"
-    URL: ""
+    URL: "http://www.seymourlab.com"
   image:
     x: "img/showcase/tablet_screen.jpg"
     _2x: "img/showcase/tablet_screen.jpg"
@@ -83,7 +83,7 @@ client_and_work:
       is_even: true
 
     - title: "Touch fast"
-      description: "Touch the circle as fast as you can to get a gold coin, or else it's a ghost! Testing how fast your actions are help us gauge your action learning (5 mins)."
+      description: "Touch the correct circle as fast as you can to win points! Testing how fast your movements are help us gauge your motor learning (5 mins)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
