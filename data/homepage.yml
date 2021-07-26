@@ -177,13 +177,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "123"
+    number: "(+44) 01865 234829"
   email:
     title: "Email"
-    email: '<a href="mailto:">team@xyz.com</a>'
+    email: '<a href="mailto:">pain.learning.lab(at)ndcn(dot)ox(dot)ac(dot)uk</a>'
   address:
     title: "Address"
-    address: "WIN<br />University of Oxford"
+    address: "WIN | NDCN <br />University of Oxford"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
