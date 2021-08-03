@@ -54,7 +54,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
-        URL: "https://pavlovia.org/run/syz/bandit_touch/html/"
+        URL: "https://pavlovia.org/run/syz/bandit_balloon/html/"
       image:
         x: "img/works/balloons.jpg"
         _2x: "img/works/balloons.jpg"
