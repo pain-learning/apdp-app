@@ -71,16 +71,16 @@ client_and_work:
         _2x: "img/works/safety.jpg"
       is_even: false
 
-    - title: "Weather forecast"
-      description: "Is it raining tomorrow? How sure are you about this? It'll tell us about how you change your mind based on earlier observations (5 mins)."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Go to game"
-        URL: "https://run.pavlovia.org/noxlab/_tsl_fisher_35/"
-      image:
-        x: "img/works/weather.jpg"
-        _2x: "img/works/weather.jpg"
-      is_even: true
+    # - title: "Weather forecast"
+    #   description: "Is it raining tomorrow? How sure are you about this? It'll tell us about how you change your mind based on earlier observations (5 mins)."
+    #   button:
+    #     icon: "icon-arrow-right"
+    #     btnText: "Go to game"
+    #     URL: "https://run.pavlovia.org/noxlab/_tsl_fisher_35/"
+    #   image:
+    #     x: "img/works/weather.jpg"
+    #     _2x: "img/works/weather.jpg"
+    #   is_even: true
 
     - title: "Touch fast"
       description: "Touch the correct circle as fast as you can to win points! Testing how fast your movements are help us gauge your motor learning (5 mins)."
