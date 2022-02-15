@@ -16,10 +16,10 @@ showcase:
     alt: "tablet screen"
     x: "img/showcase/fMRI-mobile.jpg"
 
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Contact us"
-    URL: "mailto:pain.learning.lab(at)ndcn(dot)ox(dot)ac(dot)uk"
+  # button:
+  #   icon: "icon-mail-fill"
+  #   btnText: "Contact us"
+  #   URL: "mailto:pain.learning.lab(at)ndcn(dot)ox(dot)ac(dot)uk"
 
 
 # about
@@ -113,31 +113,31 @@ education:
     - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_bisbas'>BIS/BAS scale</a>"
       degree: "Assesses individual differences in the sensitivity to appetitive and aversive motives (13 questions)"
 
-# # experience
-# experience:
-#   enable: true
-#   title: "Video your exercise"
-#   description: "Upload short videos of you exercising can help us track your recovery over time. Click below for instructions on exercises and phone camera setup"
-#   button:
-#     icon: "icon-profile-fill"
-#     btnText: "More information"
-#     URL: "https://sites.google.com/view/video-your-exercise-prototype/home"
-#   # button2:
-#   #   icon: "icon-profile-fill"
-#   #   btnText: "Download My Resume"
-#   #   URL: "#"
-#   items:
-#     - title: "Set up phone camera"
-#       company: "Make sure your whole body is in"
-#       duration: "Step 1"
+# experience
+experience:
+  enable: false #true
+  title: "Video your exercise"
+  description: "Upload short videos of you exercising can help us track your recovery over time. Click below for instructions on exercises and phone camera setup"
+  button:
+    icon: "icon-profile-fill"
+    btnText: "More information"
+    URL: "https://sites.google.com/view/video-your-exercise-prototype/home"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
+  items:
+    - title: "Set up phone camera"
+      company: "Make sure your whole body is in"
+      duration: "Step 1"
 
-#     - title: "Video your exercise"
-#       company: "Repeat a movement a few times (for example, lifting your knee)"
-#       duration: "Step 2"
+    - title: "Video your exercise"
+      company: "Repeat a movement a few times (for example, lifting your knee)"
+      duration: "Step 2"
 
-#     - title: "Upload your video"
-#       company: "Click the upload button and choose your video"
-#       duration: "Step 3"
+    - title: "Upload your video"
+      company: "Click the upload button and choose your video"
+      duration: "Step 3"
 
 # testimonial
 testimonial:
