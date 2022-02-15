@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, welcome to"
   subtitle: "pain learning research"
-  description: "Here you will find a collection of online games, questionnaires and video tools that help us understand how your pain changes in time. There are also useful links on pain management."
+  description: "Here you will find a collection of online games and questionnaires that help us understand how your pain changes in time. There are also useful links on pain management."
   image:
     alt: "tablet screen"
     x: "img/showcase/fMRI.jpg"
@@ -50,40 +50,30 @@ client_and_work:
 
   works:
     - title: "Pop a balloon"
-      description: "Pop a ballon to find out if you've won a gold coin or poked a ghost! It helps us evaluate your decision to reward and loss (5 mins, if asked for an ID, please put the number 1 in)."
+      description: "Pop a ballon to find out if you've won a gold coin or poked a pirate! It helps us evaluate your decision to reward and loss (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
-        URL: "https://pavlovia.org/run/syz/bandit_balloon/html/"
+        URL: "https://run.pavlovia.org/jao57/3_balloon_test/"
+        # URL: "https://pavlovia.org/run/syz/bandit_balloon/html/"
       image:
         x: "img/works/balloons.jpg"
         _2x: "img/works/balloons.jpg"
       is_even: true
 
-    - title: "Safety check"
-      description: "The star is changing shape all the time. Is it still safe? Will you bet on it? It evaluates how loss may change your perception of safety (5 mins, if asked for an ID, please put the number 1 in)."
+    - title: "Road safety"
+      description: "Rocks are falling on your car, you need to steer clear by watching the road signs. Should you use your shield when you see a star or a circle? It evaluates how loss may change your perception of safety (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
-        URL: "https://run.pavlovia.org/syz/generalisation_task"
+        URL: "https://run.pavlovia.org/syz/generalisation_py"
       image:
         x: "img/works/safety.jpg"
         _2x: "img/works/safety.jpg"
       is_even: false
 
-    - title: "Weather forecast"
-      description: "Is it raining tomorrow? How sure are you about this? It'll tell us about how you change your mind based on earlier observations (5 mins, if asked for an ID, please put the number 1 in)."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Go to game"
-        URL: "https://run.pavlovia.org/noxlab/_tsl_fisher_59/"
-      image:
-        x: "img/works/weather.jpg"
-        _2x: "img/works/weather.jpg"
-      is_even: true
-
-    - title: "Touch fast"
-      description: "Touch the correct circle as fast as you can to win points! Testing how fast your movements are help us gauge your motor learning (5 mins, if asked for an ID, please put the number 1 in)."
+    - title: "Moving circles"
+      description: "Touch the correct circle as fast as you can to win points! Testing how fast your movements are help us gauge your motor learning (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
@@ -93,6 +83,16 @@ client_and_work:
         _2x: "img/works/fast.jpg"
       is_even: false
 
+    - title: "Stocks forecast"
+      description: "What's your prediction of the stock market? Should you sell or hold? How sure are you about this? It'll tell us about how you change your mind based on earlier observations (1 hour, if asked for an ID, please put the number 1 in)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://run.pavlovia.org/noxlab/stockgame8"
+      image:
+        x: "img/works/stocks.jpg"
+        _2x: "img/works/stocks.jpg"
+      is_even: true
 
 # education
 education:
@@ -113,31 +113,31 @@ education:
     - university: "<a target='_blank' href='https://run.pavlovia.org/syz/qs_bisbas'>BIS/BAS scale</a>"
       degree: "Assesses individual differences in the sensitivity to appetitive and aversive motives (13 questions)"
 
-# experience
-experience:
-  enable: true
-  title: "Video your exercise"
-  description: "Upload short videos of you exercising can help us track your recovery over time. Click below for instructions on exercises and phone camera setup"
-  button:
-    icon: "icon-profile-fill"
-    btnText: "More information"
-    URL: "https://sites.google.com/view/video-your-exercise-prototype/home"
-  # button2:
-  #   icon: "icon-profile-fill"
-  #   btnText: "Download My Resume"
-  #   URL: "#"
-  items:
-    - title: "Set up phone camera"
-      company: "Make sure your whole body is in"
-      duration: "Step 1"
+# # experience
+# experience:
+#   enable: true
+#   title: "Video your exercise"
+#   description: "Upload short videos of you exercising can help us track your recovery over time. Click below for instructions on exercises and phone camera setup"
+#   button:
+#     icon: "icon-profile-fill"
+#     btnText: "More information"
+#     URL: "https://sites.google.com/view/video-your-exercise-prototype/home"
+#   # button2:
+#   #   icon: "icon-profile-fill"
+#   #   btnText: "Download My Resume"
+#   #   URL: "#"
+#   items:
+#     - title: "Set up phone camera"
+#       company: "Make sure your whole body is in"
+#       duration: "Step 1"
 
-    - title: "Video your exercise"
-      company: "Repeat a movement a few times (for example, lifting your knee)"
-      duration: "Step 2"
+#     - title: "Video your exercise"
+#       company: "Repeat a movement a few times (for example, lifting your knee)"
+#       duration: "Step 2"
 
-    - title: "Upload your video"
-      company: "Click the upload button and choose your video"
-      duration: "Step 3"
+#     - title: "Upload your video"
+#       company: "Click the upload button and choose your video"
+#       duration: "Step 3"
 
 # testimonial
 testimonial:
@@ -167,7 +167,7 @@ testimonial:
       
 # contact
 contact:
-  enable: true
+  enable: false #true
   title: "Contact"
   form:
     method: "POST"
@@ -190,7 +190,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false #true
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
