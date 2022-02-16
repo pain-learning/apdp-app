@@ -66,8 +66,8 @@ client_and_work:
         URL: "https://run.pavlovia.org/jao57/3_balloon_test/"
         # URL: "https://pavlovia.org/run/syz/bandit_balloon/html/"
       image:
-        x: "img/works/balloons.jpg"
-        _2x: "img/works/balloons.jpg"
+        x: "img/works/baloon.jpeg"
+        _2x: "img/works/baloon.jpeg"
       is_even: true
 
     - title: "Stay safe"
@@ -77,30 +77,30 @@ client_and_work:
         btnText: "Go to game"
         URL: "https://run.pavlovia.org/syz/generalisation_py"
       image:
-        x: "img/works/safety.jpg"
-        _2x: "img/works/safety.jpg"
+        x: "img/works/road.jpeg"
+        _2x: "img/works/road.jpeg"
       is_even: false
 
-    - title: "Tap, fast!"
-      description: "Tap a target as fast as you can to win points! This game evaluates motor learning (10 mins, if asked for an ID, please put the number 1 in)."
+    - title: "Hit moving target"
+      description: "Tap a moving target as fast as you can to win points! This game evaluates motor learning (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
         URL: "https://pavlovia.org/run/syz/circle_motor/html/"
       image:
-        x: "img/works/fast.jpg"
-        _2x: "img/works/fast.jpg"
+        x: "img/works/target.jpg"
+        _2x: "img/works/target.jpg"
       is_even: false
 
-    - title: "Share value forecast"
+    - title: "Forecast shares value"
       description: "You are a broker and need to predict the stockmarket. This game tests the brain's ability to learn to predict uncertain win and losses (20 min, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
         #URL: "https://run.pavlovia.org/noxlab/stockgame8"
       image:
-        x: "img/works/stocks.jpg"
-        _2x: "img/works/stocks.jpg"
+        x: "img/works/stock.jpeg"
+        _2x: "img/works/stock.jpeg"
       is_even: true
 
 # education
