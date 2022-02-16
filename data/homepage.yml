@@ -1,7 +1,7 @@
 # homepage
 homepage:
   head:
-    title: "Home | Pain leanring research"
+    title: "Home | Pain learning research"
 # showcase
 showcase:
   enable: true
