@@ -10,11 +10,15 @@ showcase:
   description: "Here you will find a collection of online games and questionnaires that help us understand how your pain changes in time. There are also useful links on pain management."
   image:
     alt: "tablet screen"
-    x: "img/showcase/fMRI.jpg"
-    _2x: "img/showcase/fMRI@2x.jpg"
+    x: "img/showcase/learning-brain.png"
+  #  _2x: "img/showcase/learning-brain.png"
+   # x: "img/showcase/fMRI.jpg"
+   # _2x: "img/showcase/fMRI@2x.jpg"
   imageMobile:
     alt: "tablet screen"
-    x: "img/showcase/fMRI-mobile.jpg"
+    x: "img/showcase/learning-brain.jpg"
+  #  x: "img/showcase/fMRI-mobile.jpg"
+
 
   # button:
   #   icon: "icon-mail-fill"
@@ -35,10 +39,10 @@ about:
     <p class="lead">
     You can help us understand how pain changes the learning process by tracking your thinking and movement using our online tools.
     </p>'
-  button:
-    icon: "icon-smile-fill"
-    btnText: "More about our research"
-    URL: "http://www.seymourlab.com"
+#   button:
+#     icon: "icon-smile-fill"
+#     btnText: "More about our research"
+#     URL: "http://www.seymourlab.com"
   image:
     x: "img/showcase/tablet_screen.jpg"
     _2x: "img/showcase/tablet_screen.jpg"
