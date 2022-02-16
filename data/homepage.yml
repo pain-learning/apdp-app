@@ -85,8 +85,8 @@ client_and_work:
         btnText: "Go to game"
         URL: "https://pavlovia.org/run/syz/circle_motor/html/"
       image:
-        x: "img/works/target.jpg"
-        _2x: "img/works/target.jpg"
+        x: "img/works/target.jpeg"
+        _2x: "img/works/target.jpeg"
       is_even: false
 
     - title: "Forecast shares value"
