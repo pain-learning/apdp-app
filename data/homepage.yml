@@ -27,10 +27,10 @@ about:
   enable: true
   title: "Who are we?"
   content: '<p class="lead">
-    We are a group of neuroscience researchers interested in understanding the role of learning in chronic pain development.
+    We are a group of neuroscientists and clinicians based at the University of Cambriddge and University of Oxford. We want to understand the role of learning in chronic pain development.
     </p>
     <p class="lead">
-    Pain teaches us how to protect our body. Although this is beneficial in normal circumstances, an "overactive" pain system could amplify pain beyond what is necessary. Indeed, it has been proposed that learning processes gone wrong are central to the transition to, or maintenance of, chronic pain. 
+    Pain teaches us how to protect our body. Although this is beneficial in normal circumstances, an "overactive" pain system could amplify pain beyond what is necessary. Learning processes gone wrong might be central to the transition to, or maintenance of, chronic pain. 
     </p>
     <p class="lead">
     You can help us understand how pain changes the learning process by tracking your thinking and movement using our online tools.
@@ -50,7 +50,7 @@ client_and_work:
 
   works:
     - title: "Pop a balloon"
-      description: "Pop a ballon to find out if you've won a gold coin or poked a pirate! It helps us evaluate your decision to reward and loss (10 mins, if asked for an ID, please put the number 1 in)."
+      description: "Pop a balloon to find out if you've won a coin or poked a naughty pirate! It helps us evaluate your decision to reward and loss (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
