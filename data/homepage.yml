@@ -5,13 +5,13 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Hello, welcome to"
-  subtitle: "pain learning research"
+  title: "Brain games for pain science"
+  #subtitle: "pain learning research"
   description: "Here you will find a collection of online games and questionnaires that help us understand how your pain changes in time. There are also useful links on pain management."
   image:
     alt: "tablet screen"
     x: "img/showcase/learning-brain.png"
-  #  _2x: "img/showcase/learning-brain.png"
+  _2x: "img/showcase/learning-brain.png"
    # x: "img/showcase/fMRI.jpg"
    # _2x: "img/showcase/fMRI@2x.jpg"
   imageMobile:
