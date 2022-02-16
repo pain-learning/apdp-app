@@ -6,13 +6,10 @@ homepage:
 showcase:
   enable: true
   title: "Brain games for pain"
-  subtitle: "pain learning research"
+  subtitle: "Pain learning research"
   # description: "Here you will find a collection of online games and questionnaires that help us understand how your pain changes in time. There are also useful links on pain management."
-  description: "We learn from pain how to protect our body. Sometimes, we can learn too much from pain and amplify pain beyond what is necessary to heal. Learning processes gone wrong might be central to the transition to, or maintenance of, chronic pain. "
- </p>
-    <p class="lead">
-   To help science, you can play some games about brain learning.
-    </p>'
+  description: "We learn from pain how to protect our body. Sometimes, we can learn too much from pain and amplify pain beyond what is necessary to heal. Learning processes gone wrong might be central to the transition to, or maintenance of, chronic pain. To help science, you can play some games about brain learning."
+
  image:
     alt: "tablet screen"
     x: "img/showcase/learning-brain.jpeg"
@@ -36,7 +33,7 @@ about:
   enable: true
   title: "Who are we?"
   content: '<p class="lead">
-    We are a group of neuroscientists and clinicians based at the University of Cambriddge and University of Oxford. We want to understand the role of learning in chronic pain development.
+    We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
     </p>
 #     <p class="lead">
 #    # Pain teaches us how to protect our body. Although this is beneficial in normal circumstances, an "overactive" pain system could amplify pain beyond what is necessary. Learning processes gone wrong might be central to the transition to, or maintenance of, chronic pain. 
