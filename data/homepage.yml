@@ -43,9 +43,9 @@ about:
 # #     icon: "icon-smile-fill"
 # #     btnText: "More about our research"
 # #     URL: "http://www.seymourlab.com"
- image:
-  x: "img/showcase/logo.jpeg"
-  _2x: "img/showcase/logo.jpeg"
+  image:
+    x: "img/showcase/logo.jpeg"
+    _2x: "img/showcase/logo.jpeg"
 
 # Online games
 client_and_work:
