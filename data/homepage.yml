@@ -9,12 +9,10 @@ showcase:
   subtitle: "Pain learning research"
  # description: "Here you will find a collection of online games and questionnaires that help us understand how your pain changes in time. There are also useful links on pain management."
   description: "We learn from pain how to protect our body. When learning goes wrong, the brain can amplify pain. Brain games help us evaluate learning processes linked to chronic pain."
-image:
+  image:
     alt: "tablet screen"
     x: "img/showcase/learning-brain.jpeg"
     _2x: "img/showcase/learning-brain.jpeg"
-  #  x: "img/showcase/fMRI.jpg"
-  #  _2x: "img/showcase/fMRI@2x.jpg"
   imageMobile:
     alt: "tablet screen"
     x: "img/showcase/learning-brain.jpeg"
