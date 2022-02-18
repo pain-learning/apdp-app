@@ -54,7 +54,7 @@ client_and_work:
 
   works:
     - title: "Pop a balloon"
-      description: "Pop a balloon to win coins, and beware of the pirates stealing your coins! This game evaluates how we make decisions about uncertain rewards and losses (10 mins, if asked for an ID, please put the number 1 in)."
+      description: "Pop a balloon to win coins, but beware of the pirates stealing your coins! This game evaluates how we make decisions about uncertain rewards and losses (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
@@ -76,7 +76,7 @@ client_and_work:
         _2x: "img/works/roadcut.jpg"
       is_even: false
 
-    - title: "Hit moving target"
+    - title: "Hit a moving target"
       description: "Tap a moving target as fast as you can to win points. This game evaluates motor learning (10 mins, if asked for an ID, please put the number 1 in)."
       button:
         icon: "icon-arrow-right"
