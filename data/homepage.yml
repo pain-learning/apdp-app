@@ -12,9 +12,9 @@ showcase:
 image:
     alt: "tablet screen"
     x: "img/showcase/learning-brain.jpeg"
-  _2x: "img/showcase/learning-brain.jpeg"
-   # x: "img/showcase/fMRI.jpg"
-   # _2x: "img/showcase/fMRI@2x.jpg"
+    _2x: "img/showcase/learning-brain.jpeg"
+  #  x: "img/showcase/fMRI.jpg"
+  #  _2x: "img/showcase/fMRI@2x.jpg"
   imageMobile:
     alt: "tablet screen"
     x: "img/showcase/learning-brain.jpeg"
