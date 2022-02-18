@@ -29,7 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who are we?"
-  description: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
+  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
 #   content: '<p class="lead">
 #     We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
 #     </p>
