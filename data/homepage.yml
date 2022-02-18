@@ -43,9 +43,9 @@ about:
 # #     icon: "icon-smile-fill"
 # #     btnText: "More about our research"
 # #     URL: "http://www.seymourlab.com"
-#   image:
-#     x: "img/showcase/tablet_screen.jpg"
-#     _2x: "img/showcase/tablet_screen.jpg"
+ image:
+  x: "img/showcase/logo.jpeg"
+  _2x: "img/showcase/logo.jpeg"
 
 # Online games
 client_and_work:
@@ -83,8 +83,8 @@ client_and_work:
         btnText: "Go to game"
         URL: "https://pavlovia.org/run/syz/circle_motor/html/"
       image:
-        x: "img/works/target.png"
-        _2x: "img/works/target.png"
+        x: "img/works/handtarget.jpg"
+        _2x: "img/works/handtarget.jpg"
       is_even: false
 
     - title: "Forecast shares value"
