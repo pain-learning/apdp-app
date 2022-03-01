@@ -29,7 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who are we?"
-  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
+  content: "We are a consortium of neuroscientists based at the University of Oxford and University of Cambridge, led by Dr Ben Seymour. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
 #   content: '<p class="lead">
 #     We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
 #     </p>
@@ -87,16 +87,16 @@ client_and_work:
         _2x: "img/works/handtarget.jpg"
       is_even: false
 
-    - title: "Forecast shares value"
-      description: "You are a broker and need to predict the stockmarket. This game tests the brain's ability to learn to predict uncertain wins and losses (20 min, if asked for an ID, please put the number 1 in)."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Go to game"
-        #URL: "https://run.pavlovia.org/noxlab/stockgame8"
-      image:
-        x: "img/works/stock.jpeg"
-        _2x: "img/works/stock.jpeg"
-      is_even: true
+#     - title: "Forecast shares value"
+#       description: "You are a broker and need to predict the stockmarket. This game tests the brain's ability to learn to predict uncertain wins and losses (20 min, if asked for an ID, please put the number 1 in)."
+#       button:
+#         icon: "icon-arrow-right"
+#         btnText: "Go to game"
+#         #URL: "https://run.pavlovia.org/noxlab/stockgame8"
+#       image:
+#         x: "img/works/stock.jpeg"
+#         _2x: "img/works/stock.jpeg"
+#       is_even: true
 
 # education
 education:
