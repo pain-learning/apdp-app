@@ -78,6 +78,17 @@ client_and_work:
         _2x: "img/works/handtarget.jpg"
       is_even: false
 
+    - title: "Interact with fishes"
+      description: "You are a deep sea diver, can you avoid a fish-bite? You'll need to decide whether to touch or not to touch a few fishes, depending on whether the fish likes to be touched or not."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://run.pavlovia.org/PranavMahajan25/final-fishes-gonogo-uncertainty"
+      image:
+        x: "img/works/fishes.jpeg"
+        _2x: "img/works/fishes.jpeg"
+      is_even: true
+
 #     - title: "Forecast shares value"
 #       description: "You are a broker and need to predict the stockmarket. This game tests the brain's ability to learn to predict uncertain wins and losses (20 min, if asked for an ID, please put the number 1 in)."
 #       button:
