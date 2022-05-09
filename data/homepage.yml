@@ -29,16 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who are we?"
-  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by Dr Ben Seymour (lead, Oxford), Flavia Mancini (Cambridge), Katja Wiech, Anushka Soni and Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
-#   content: '<p class="lead">
-#     We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
-#     </p>
-# #     <p class="lead">
-# #    # Pain teaches us how to protect our body. Although this is beneficial in normal circumstances, an "overactive" pain system could amplify pain beyond what is necessary. Learning processes gone wrong might be central to the transition to, or maintenance of, chronic pain. 
-# #     </p>
-# #     <p class="lead">
-# #     You can help us understand how pain changes the learning process by tracking your thinking and movement using our online tools.
-# #     </p>'
+  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by <a href="http://www.seymourlab.com">Professor Ben Seymour</a> (Oxford), in collaboration with <a href="https://www.noxlab.org">Dr Flavia Mancini</a> (Cambridge), Dr Katja Wiech, Dr Anushka Soni and Professor Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
 # #   button:
 # #     icon: "icon-smile-fill"
 # #     btnText: "More about our research"
