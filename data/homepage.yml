@@ -29,7 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who are we?"
-  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by Professor Ben Seymour (lead, Oxford), Dr Flavia Mancini (Cambridge), Katja Wiech, Anushka Soni and Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
+  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by <a target='_blank' href='http://www.seymourlab.com'>Professor Ben Seymour</a> (lead, Oxford), <a target='_blank' href='https://www.noxlab.org'>Dr Flavia Mancini</a> (Cambridge), Katja Wiech, Anushka Soni and Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
 #   content: '<p class="lead">
 #     We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
 #     </p>
