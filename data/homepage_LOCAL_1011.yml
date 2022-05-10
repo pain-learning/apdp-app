@@ -29,20 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who are we?"
-<<<<<<< HEAD
   content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by <a href="http://www.seymourlab.com">Professor Ben Seymour</a> (Oxford), in collaboration with <a href="https://www.noxlab.org">Dr Flavia Mancini</a> (Cambridge), Dr Katja Wiech, Dr Anushka Soni and Professor Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
-=======
-  content: "We are a consortium of neuroscientists based at the University of Oxford and University of Cambridge, led by Dr Ben Seymour (lead, Oxford), Flavia Mancini (Cambridge), Katja Wiech, Anushka Soni and Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
-#   content: '<p class="lead">
-#     We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
-#     </p>
-# #     <p class="lead">
-# #    # Pain teaches us how to protect our body. Although this is beneficial in normal circumstances, an "overactive" pain system could amplify pain beyond what is necessary. Learning processes gone wrong might be central to the transition to, or maintenance of, chronic pain. 
-# #     </p>
-# #     <p class="lead">
-# #     You can help us understand how pain changes the learning process by tracking your thinking and movement using our online tools.
-# #     </p>'
->>>>>>> parent of 40949b0 (Update homepage.yml)
 # #   button:
 # #     icon: "icon-smile-fill"
 # #     btnText: "More about our research"
@@ -62,7 +49,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
-        URL: "https://run.pavlovia.org/jao57/3_balloon_test/"
+        URL: "https://run.pavlovia.org/jao57/balloon_task/"
         # URL: "https://pavlovia.org/run/syz/bandit_balloon/html/"
       image:
         x: "img/works/baloon.jpg"
@@ -74,7 +61,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
-        URL: "https://run.pavlovia.org/syz/generalisation_py"
+        URL: "https://run.pavlovia.org/jao57/rocks_task/"
       image:
         x: "img/works/roadcut.jpg"
         _2x: "img/works/roadcut.jpg"
@@ -85,7 +72,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Go to game"
-        URL: "https://pavlovia.org/run/syz/circle_motor"
+        URL: "https://run.pavlovia.org/syz/circle_motor/"
       image:
         x: "img/works/handtarget.jpg"
         _2x: "img/works/handtarget.jpg"
