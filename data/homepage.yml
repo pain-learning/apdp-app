@@ -29,7 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who are we?"
-  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by <a href="http://www.seymourlab.com">Professor Ben Seymour</a> (lead, Oxford), <a href="https://www.noxlab.org">Dr Flavia Mancini</a>  (Cambridge), Katja Wiech, Anushka Soni and Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
+  content: "We are a group of neuroscientists based at the University of Oxford and University of Cambridge, led by Professor Ben Seymour (lead, Oxford), Dr Flavia Mancini (Cambridge), Katja Wiech, Anushka Soni and Tim Denison (Oxford). We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development."
 #   content: '<p class="lead">
 #     We are a group of neuroscientists based at the University of Oxford and University of Cambridge. We work in partnerships with people with lived experience of chronic pain to understand the role of learning in chronic pain development.
 #     </p>
@@ -86,6 +86,17 @@ client_and_work:
         x: "img/works/handtarget.jpg"
         _2x: "img/works/handtarget.jpg"
       is_even: false
+
+    - title: "Interact with fishes"
+      description: "You are a deep sea diver, can you avoid fish-bites? You'll need to decide whether to touch or not to touch a few fishes, depending on whether the fish likes to be touched or not."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Go to game"
+        URL: "https://run.pavlovia.org/PranavMahajan25/final-fishes-gonogo-uncertainty"
+      image:
+        x: "img/works/fishes.jpg"
+        _2x: "img/works/fishes.jpg"
+      is_even: true
 
 #     - title: "Forecast shares value"
 #       description: "You are a broker and need to predict the stockmarket. This game tests the brain's ability to learn to predict uncertain wins and losses (20 min, if asked for an ID, please put the number 1 in)."
